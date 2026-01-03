@@ -161,9 +161,8 @@ It does **not** provide medical diagnosis or treatment advice. Always consult a 
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-B.Tech Final Year Student
-AI / Full Stack / Software Engineering Enthusiast
+**@ahmasmibhanu**
+~AI / Full Stack / Software Engineering Enthusiast
 
 ---
 
