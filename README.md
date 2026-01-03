@@ -103,8 +103,8 @@ medical-report-analyzer/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medical-report-analyzer.git
-cd medical-report-analyzer
+git clone https://github.com/ahmasmibhanu/HealthLens.git
+cd HealthLens
 ```
 
 ### 2️⃣ Install Dependencies
