@@ -16,21 +16,21 @@ Blood test reports are often difficult for non-medical users to understand due t
 
 This project aims to:
 
-* Automate blood report analysis
-* Improve healthcare data accessibility
-* Provide simplified, explainable insights for patients and students
+* Automate blood report analysis.
+* Improve healthcare data accessibility.
+* Provide simplified, explainable insights for patients and students.
 
 ---
 
 ## 🚀 Key Features
 
-* 📄 **Automated OCR Extraction** from uploaded blood test reports
-* 🤖 **Agent-Based Architecture** using CrewAI
-* 🧠 **LLM-Powered Medical Interpretation** with reference range mapping
-* 📝 **Patient-Friendly Summaries** generated via prompt engineering
-* 🎛 **Streamlit Web Interface** for easy report upload and analysis
-* 🔄 **Modular & Scalable Design** for future diagnostic extensions
-* 🔐 **Responsible AI Practices** with no sensitive data retention
+* 📄 **Automated OCR Extraction** from uploaded blood test reports.
+* 🤖 **Agent-Based Architecture** using CrewAI.
+* 🧠 **LLM-Powered Medical Interpretation** with reference range mapping.
+* 📝 **Patient-Friendly Summaries** generated via prompt engineering.
+* 🎛 **Streamlit Web Interface** for easy report upload and analysis.
+* 🔄 **Modular & Scalable Design** for future diagnostic extensions.
+* 🔐 **Responsible AI Practices** with no sensitive data retention.
 
 ---
 
