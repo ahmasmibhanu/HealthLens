@@ -143,8 +143,8 @@ streamlit run app.py
 
 ## 🔮 Future Enhancements
 
-* Backend API using FastAPI
-* Database integration for report history
+* Backend API using FastAPI.
+* Database integration for report history.
 * Explainability scores and confidence metrics
 * Authentication and role-based access
 * Support for additional diagnostics (X-ray, MRI reports)
