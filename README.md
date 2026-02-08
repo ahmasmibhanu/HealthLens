@@ -145,8 +145,8 @@ streamlit run app.py
 
 * Backend API using FastAPI.
 * Database integration for report history.
-* Explainability scores and confidence metrics
-* Authentication and role-based access
+* Explainability scores and confidence metrics.
+* Authentication and role-based access.
 * Support for additional diagnostics (X-ray, MRI reports)
 * Deployment using Docker and cloud platforms
 
