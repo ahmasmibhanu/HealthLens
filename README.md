@@ -147,7 +147,7 @@ streamlit run app.py
 * Database integration for report history.
 * Explainability scores and confidence metrics.
 * Authentication and role-based access.
-* Support for additional diagnostics (X-ray, MRI reports)
+* Support for additional diagnostics (X-ray, MRI reports).
 * Deployment using Docker and cloud platforms
 
 ---
