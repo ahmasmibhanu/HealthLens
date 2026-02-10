@@ -148,7 +148,7 @@ streamlit run app.py
 * Explainability scores and confidence metrics.
 * Authentication and role-based access.
 * Support for additional diagnostics (X-ray, MRI reports).
-* Deployment using Docker and cloud platforms
+* Deployment using Docker and cloud platforms.
 
 ---
 
