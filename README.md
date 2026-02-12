@@ -136,8 +136,8 @@ streamlit run app.py
 * Reduced manual effort in interpreting blood reports.
 * Improved healthcare data accessibility for non-technical users.
 * Achieved accurate extraction across diverse report formats.
-* Received positive usability feedback from medical students and early testers
-* Demonstrated the feasibility of agent-based AI systems in healthcare
+* Received positive usability feedback from medical students and early testers.
+* Demonstrated the feasibility of agent-based AI systems in healthcare.
 
 ---
 
