@@ -154,8 +154,8 @@ streamlit run app.py
 
 ## ⚠️ Disclaimer
 
-This tool is intended for **educational and informational purposes only**.
-It does **not** provide medical diagnosis or treatment advice. Always consult a qualified healthcare professional for medical decisions.
+This tool is intended for **educational and informational purposes only**
+It does **not** provide medical diagnosis or treatment advice. Always consult a qualified healthcare professional for medical decisions
 
 ---
 
