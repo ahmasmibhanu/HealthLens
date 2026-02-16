@@ -41,11 +41,13 @@ The system is built using a **multi-agent pipeline**, where each agent performs 
 1. **OCR Parser Agent**
 
    * Extracts text from uploaded blood reports using Tesseract OCR.
+     
 2. **Health Data Interpreter Agent**
 
    * Identifies medical parameters.
    * Maps values to standard reference ranges.
    * Generates contextual medical insights using LLMs.
+     
 3. **Summary Generator Agent**
 
    * Converts technical results into simplified, patient-friendly explanations.
