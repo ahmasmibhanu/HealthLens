@@ -176,3 +176,7 @@ It does **not** provide medical diagnosis or treatment advice. Always consult a 
 * Open-source OCR and NLP communities
 
 ---
+
+### ⭐ If you find this project useful, consider starring the repository!
+
+---
