@@ -128,7 +128,7 @@ streamlit run app.py
 1. Upload a blood test report (PDF or image).
 2. OCR extracts the report text.
 3. AI agents analyze medical parameters.
-4. A simplified, patient-friendly summary is generated.
+4. A **simplified**, **patient-friendly summary** is generated.
 5. Results are displayed in real-time on the UI.
 
 ---
@@ -173,7 +173,7 @@ It does **not** provide medical diagnosis or treatment advice. Always consult a 
 * CrewAI
 * Hugging Face
 * Streamlit
-* Open-source OCR and NLP communities
+* Open-source OCR and NLP communities.
 
 ---
 
