@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-Medical Report Analyzer is an AI-driven application designed to automate the extraction, interpretation, and summarization of blood test reports. The system leverages **OCR, Large Language Models (LLMs), and an agent-based architecture** to convert complex medical data into clear, patient-friendly insights.
+Medical Report Analyzer is an AI-driven application designed to automate the extraction, interpretation, and summarization of blood test reports. The system leverages **OCR, Large Language Models (LLMs)**, and an **agent-based architecture** to convert complex medical data into clear, patient-friendly insights.
 
 Built with scalability and responsible AI principles in mind, this project demonstrates how **multi-agent AI systems** can be applied to real-world healthcare use cases.
 
