@@ -16,9 +16,9 @@ Blood test reports are often difficult for non-medical users to understand due t
 
 This project aims to:
 
-* Automate blood report analysis.
-* Improve healthcare data accessibility.
-* Provide simplified, explainable insights for patients and students.
+* **Automate** blood report analysis.
+* Improve healthcare data **accessibility**.
+* Provide **simplified**, explainable insights for patients and students.
 
 ---
 
