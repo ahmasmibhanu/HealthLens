@@ -125,7 +125,7 @@ streamlit run app.py
 
 ## 🧪 Usage
 
-1. Upload a blood test report (PDF or image).
+1. Upload a **blood test report** (PDF or image).
 2. OCR extracts the report text.
 3. AI agents analyze medical parameters.
 4. A **simplified**, **patient-friendly summary** is generated.
