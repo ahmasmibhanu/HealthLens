@@ -164,7 +164,7 @@ It does **not** provide medical diagnosis or treatment advice. Always consult a 
 ## 👨‍💻 Author
 
 **@ahmasmibhanu**
-*~AI / Full Stack / Software Engineering Enthusiast*
+**~AI / Full Stack / Software Engineering Enthusiast**
 
 ---
 
