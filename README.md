@@ -173,7 +173,7 @@ It does **not** provide medical diagnosis or treatment advice. Always consult a 
 * CrewAI
 * Hugging Face
 * Streamlit
-* Open-source OCR and NLP communities.
+* Open-source OCR and NLP communities
 
 ---
 
