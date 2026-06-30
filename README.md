@@ -1,6 +1,6 @@
 # 🩺 HealthLens
 
-**AI-Powered Blood Test Report Interpretation System and Medical Report Analyzer**..........
+**AI-Powered Blood Test Report Interpretation System and Medical Report Analyzer**
 
 ## 📌 Overview
 
